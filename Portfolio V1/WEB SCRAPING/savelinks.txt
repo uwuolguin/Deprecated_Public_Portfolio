@@ -1,0 +1,25 @@
+Links-Fecha
+https://finance.yahoo.com/chart/ETH-USD?p=ETH-USD,2023-02-19 22:01:52.512842
+https://finance.yahoo.com/chart/USDT-USD?p=USDT-USD,2023-02-19 22:01:52.557856
+https://finance.yahoo.com/chart/BNB-USD?p=BNB-USD,2023-02-19 22:01:52.603865
+https://finance.yahoo.com/chart/USDC-USD?p=USDC-USD,2023-02-19 22:01:52.647891
+https://finance.yahoo.com/chart/BTC-USD?p=BTC-USD,2023-02-19 22:02:02.951830
+https://finance.yahoo.com/chart/ETH-USD?p=ETH-USD,2023-02-19 22:02:02.992563
+https://finance.yahoo.com/chart/USDT-USD?p=USDT-USD,2023-02-19 22:02:03.033166
+https://finance.yahoo.com/chart/BNB-USD?p=BNB-USD,2023-02-19 22:02:03.074334
+https://finance.yahoo.com/chart/USDC-USD?p=USDC-USD,2023-02-19 22:02:03.113033
+https://finance.yahoo.com/chart/BTC-USD?p=BTC-USD,2023-02-19 22:02:13.395104
+https://finance.yahoo.com/chart/ETH-USD?p=ETH-USD,2023-02-19 22:02:13.434052
+https://finance.yahoo.com/chart/USDT-USD?p=USDT-USD,2023-02-19 22:02:13.472333
+https://finance.yahoo.com/chart/BNB-USD?p=BNB-USD,2023-02-19 22:02:13.509387
+https://finance.yahoo.com/chart/USDC-USD?p=USDC-USD,2023-02-19 22:02:13.549331
+https://finance.yahoo.com/chart/BTC-USD?p=BTC-USD,2023-02-19 22:02:23.851810
+https://finance.yahoo.com/chart/ETH-USD?p=ETH-USD,2023-02-19 22:02:23.890888
+https://finance.yahoo.com/chart/USDT-USD?p=USDT-USD,2023-02-19 22:02:23.928830
+https://finance.yahoo.com/chart/BNB-USD?p=BNB-USD,2023-02-19 22:02:23.967856
+https://finance.yahoo.com/chart/USDC-USD?p=USDC-USD,2023-02-19 22:02:24.005842
+https://finance.yahoo.com/chart/BTC-USD?p=BTC-USD,2023-02-19 22:02:34.282031
+https://finance.yahoo.com/chart/ETH-USD?p=ETH-USD,2023-02-19 22:02:34.346045
+https://finance.yahoo.com/chart/USDT-USD?p=USDT-USD,2023-02-19 22:02:34.384684
+https://finance.yahoo.com/chart/BNB-USD?p=BNB-USD,2023-02-19 22:02:34.424685
+https://finance.yahoo.com/chart/USDC-USD?p=USDC-USD,2023-02-19 22:02:34.463705

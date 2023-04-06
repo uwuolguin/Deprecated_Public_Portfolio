@@ -1,0 +1,37 @@
+MARCA,MODELO,URL,PRECIO_LISTA,PRECIO_BONO,FECHA_EXTRACCION
+BMW,C 400 GT,https://www.bmw-motorrad.cl/es/models/urban_mobility/c400gt.html,0,0,2023-02-28 10:03:27.202217
+BMW,F 750 GS,https://www.bmw-motorrad.cl/es/models/adventure/f750gs.html,0,0,2023-02-28 10:03:39.236740
+BMW,F 900 R,https://www.bmw-motorrad.cl/es/models/roadster/f900r.html, 15.390.000 , 13.890.000 ,2023-02-28 10:03:51.345635
+BMW,F850 GS,https://www.bmw-motorrad.cl/es/models/adventure/f850gs.html,0,0,2023-02-28 10:04:03.203352
+BMW,G 310 GS,https://www.bmw-motorrad.cl/es/models/adventure/g310gs.html,0,0,2023-02-28 10:04:15.493183
+BMW,G 310 R,https://www.bmw-motorrad.cl/es/models/roadster/g310r.html, 6.490.000 , 5.290.000,2023-02-28 10:04:27.617318
+BMW,K 1600 GT,https://www.bmw-motorrad.cl/es/models/tour/k1600gt.html,32.490.000 , 31.690.000 ,2023-02-28 10:04:40.541514
+BMW,K 1600 GTL,https://www.bmw-motorrad.cl/es/models/tour/k1600gtl.html, 33.390.000 , 32.790.000 ,2023-02-28 10:04:52.842205
+BMW,R 1200 NineT,https://www.bmw-motorrad.cl/es/models/heritage/rninetpure.html,0,0,2023-02-28 10:05:05.283046
+BMW,R 1250 R,https://www.bmw-motorrad.cl/es/models/roadster/r1250r.html, 20.290.000 , 19.790.000 ,2023-02-28 10:05:17.547174
+BMW,R 1250 RS,https://www.bmw-motorrad.cl/es/models/sport/r1250rs.html,0,0,2023-02-28 10:05:29.634556
+BMW,R-1250 GS,https://www.bmw-motorrad.cl/es/models/adventure/r1250gs.html, 26.990.000 , 26.190.000 ,2023-02-28 10:05:42.793472
+BMW,R-1250 GS ADV,https://www.bmw-motorrad.cl/es/models/adventure/r1250gsadventure.html,0,0,2023-02-28 10:05:55.637103
+BMW,R-1250 RT,https://www.bmw-motorrad.cl/es/models/tour/r1250rt.html, 29.990.000 , 28.990.000 ,2023-02-28 10:06:07.802191
+BMW,R18,https://www.bmw-motorrad.cl/es/models/heritage/r18.html,0,0,2023-02-28 10:06:20.551484
+BMW,S 1000 R,https://www.bmw-motorrad.cl/es/models/roadster/s1000r.html, 21.790.000 , 20.590.000 ,2023-02-28 10:06:32.765166
+BMW,S 1000 RR,https://www.bmw-motorrad.cl/es/models/sport/s1000rr.html,0,0,2023-02-28 10:06:47.372865
+BMW,S 1000 XR,https://www.bmw-motorrad.cl/es/models/adventure/s1000xr.html, 24.490.000 , 23.490.000 ,2023-02-28 10:07:00.753618
+BMW,C 400 GT,https://www.bmw-motorrad.cl/es/models/urban_mobility/c400gt.html, 13.690.000 , 13.390.000 ,2023-02-28 11:33:00.029308
+BMW,F 750 GS,https://www.bmw-motorrad.cl/es/models/adventure/f750gs.html, 14.490.000 ,13.790.000 ,2023-02-28 11:33:22.096298
+BMW,F 900 R,https://www.bmw-motorrad.cl/es/models/roadster/f900r.html, 15.390.000 , 13.890.000 ,2023-02-28 11:33:40.257455
+BMW,F850 GS,https://www.bmw-motorrad.cl/es/models/adventure/f850gs.html, 15.490.000 , 14.790.000 ,2023-02-28 11:33:59.685358
+BMW,G 310 GS,https://www.bmw-motorrad.cl/es/models/adventure/g310gs.html, 7.390.000 , 6.990.000 ,2023-02-28 11:34:17.177416
+BMW,G 310 R,https://www.bmw-motorrad.cl/es/models/roadster/g310r.html, 6.490.000 , 5.290.000,2023-02-28 11:34:38.799484
+BMW,K 1600 GT,https://www.bmw-motorrad.cl/es/models/tour/k1600gt.html,32.490.000 , 31.690.000 ,2023-02-28 11:34:58.309502
+BMW,K 1600 GTL,https://www.bmw-motorrad.cl/es/models/tour/k1600gtl.html, 33.390.000 , 32.790.000 ,2023-02-28 11:35:16.654552
+BMW,R 1200 NineT,https://www.bmw-motorrad.cl/es/models/heritage/rninetpure.html, 16.690.000 , 16.190.000 ,2023-02-28 11:35:35.269510
+BMW,R 1250 R,https://www.bmw-motorrad.cl/es/models/roadster/r1250r.html, 20.290.000 , 19.790.000 ,2023-02-28 11:35:55.581238
+BMW,R 1250 RS,https://www.bmw-motorrad.cl/es/models/sport/r1250rs.html, 20.490.000 , 19.990.000 ,2023-02-28 11:36:15.639719
+BMW,R-1250 GS,https://www.bmw-motorrad.cl/es/models/adventure/r1250gs.html, 26.990.000 , 26.190.000 ,2023-02-28 11:36:34.762246
+BMW,R-1250 GS ADV,https://www.bmw-motorrad.cl/es/models/adventure/r1250gsadventure.html, 28.990.000 , 27.990.000 ,2023-02-28 11:36:54.330310
+BMW,R-1250 RT,https://www.bmw-motorrad.cl/es/models/tour/r1250rt.html, 29.990.000 , 28.990.000 ,2023-02-28 11:37:13.034227
+BMW,R18,https://www.bmw-motorrad.cl/es/models/heritage/r18.html, 28.590.000 , 26.590.000 ,2023-02-28 11:37:34.248725
+BMW,S 1000 R,https://www.bmw-motorrad.cl/es/models/roadster/s1000r.html, 21.790.000 , 20.590.000 ,2023-02-28 11:37:52.130845
+BMW,S 1000 RR,https://www.bmw-motorrad.cl/es/models/sport/s1000rr.html,0,0,2023-02-28 11:38:12.338345
+BMW,S 1000 XR,https://www.bmw-motorrad.cl/es/models/adventure/s1000xr.html, 24.490.000 , 23.490.000 ,2023-02-28 11:38:31.022803

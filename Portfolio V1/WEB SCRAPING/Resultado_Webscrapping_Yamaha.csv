@@ -1,0 +1,83 @@
+MARCA,MODELO,URL,precio_desde,legal_bono,precio_bono,precio_lista,fecha_extraccion
+YAMAHA,FZ-250,https://www.yamahamotos.cl/producto/new-fz-25/,3.090.000,0.0,0,3.190.000,2023-02-20 13:31:58.545345
+YAMAHA,FZ-S,https://www.yamahamotos.cl/producto/fz-s/,2.390.000,0.0,0,2.790.000,2023-02-20 13:32:00.723533
+YAMAHA,FZN-150,https://www.yamahamotos.cl/producto/fzn150/,0,0.0,0,0,2023-02-20 13:32:02.534509
+YAMAHA,KODIAK 450,https://www.yamahamotos.cl/producto/kodiak-450/,10.190.000,0.0,0,10.190.000,2023-02-20 13:32:04.567321
+YAMAHA,MT-03A,https://www.yamahamotos.cl/producto/yamaha-mt-03/#motos,5.690.000,400.0,0,6.090.000,2023-02-20 13:32:06.940545
+YAMAHA,MT-07A,https://www.yamahamotos.cl/producto/yamaha-mt-07/,8.990.000,0.0,0,8.990.000,2023-02-20 13:32:09.485917
+YAMAHA,MT-09A,https://www.yamahamotos.cl/producto/mt09/,12.340.000,0.0,0,12.340.000,2023-02-20 13:32:11.542631
+YAMAHA,MT-10,https://www.yamahamotos.cl/producto/mt-10-2/,15.790.000,0.0,0,15.790.000,2023-02-20 13:32:14.019294
+YAMAHA,NMAX,https://www.yamahamotos.cl/producto/nmax-connected/,3.590.000,300.0,0,3.890.000,2023-02-20 13:32:16.643260
+YAMAHA,PW-50,https://www.yamahamotos.cl/producto/pw-50/,2.299.000,0.0,0,2.299.000,2023-02-20 13:32:18.691698
+YAMAHA,RAY-ZR,https://www.yamahamotos.cl/producto/cygnusrayzr/,1.899.000,0.0,0,1.999.000,2023-02-20 13:32:20.891650
+YAMAHA,TENERE 700,https://www.yamahamotos.cl/producto/tenere-700/,13.490.000,0.0,0,13.490.000,2023-02-20 13:32:23.002396
+YAMAHA,TT-R110E,https://www.yamahamotos.cl/producto/ttr-110e/,2.690.000,0.0,0,2.690.000,2023-02-20 13:32:25.184387
+YAMAHA,WR-250F,https://www.yamahamotos.cl/producto/wr-250f/,9.359.000,0.0,0,9.359.000,2023-02-20 13:32:27.343882
+YAMAHA,X-MAX 300,https://www.yamahamotos.cl/producto/scooter-yamaha-xmax-300/,5.590.000,400.0,5.990.000,6.690.000,2023-02-20 13:32:29.564797
+YAMAHA,XT-1200 ZE,https://www.yamahamotos.cl/producto/xt-1200-ze/,15.990.000,0.0,0,15.990.000,2023-02-20 13:32:31.492110
+YAMAHA,XTZ-125E,https://www.yamahamotos.cl/producto/xtz-125/,1.999.000,0.0,1.999.000,2.149.000,2023-02-20 13:32:33.868428
+YAMAHA,XTZ-150,https://www.yamahamotos.cl/producto/xtz150/,0,0.0,0,0,2023-02-20 13:32:36.427160
+YAMAHA,XVS-950 BOLT,https://www.yamahamotos.cl/producto/bolt/,11.590.000,0.0,0,11.590.000,2023-02-20 13:32:38.601080
+YAMAHA,YBR-125Z,https://www.yamahamotos.cl/producto/ybr-125/,1.499.000,0.0,0,0,2023-02-20 13:32:40.821511
+YAMAHA,YFM - 350A,https://www.yamahamotos.cl/producto/yfm-350a/,7.690.000,0.0,0,7.690.000,2023-02-20 13:32:42.686948
+YAMAHA,YFM-700 FWAD,https://www.yamahamotos.cl/producto/new-grizzly-eps-se/,12.590.000,0.0,0,12.590.000,2023-02-20 13:32:44.797953
+YAMAHA,YFM-90R,https://www.yamahamotos.cl/producto/yfm-90r-2/,2.999.000,0.0,2.999.000,3.149.000,2023-02-20 13:32:46.950348
+YAMAHA,YZ-125,https://www.yamahamotos.cl/producto/yz-125/,7.400.000,0.0,0,0,2023-02-20 13:32:49.206279
+YAMAHA,YZ-125X,https://www.yamahamotos.cl/producto/yz-125x-2t/,7.559.000,0.0,0,7.559.000,2023-02-20 13:32:51.516022
+YAMAHA,YZ-250F,https://www.yamahamotos.cl/producto/new-yz-250f/#motos,8.999.000,0.0,0,8.999.000,2023-02-20 13:32:53.718905
+YAMAHA,YZ-250FX,https://www.yamahamotos.cl/producto/new-yz-250fx-2023/,9.290.000,0.0,0,9.290.000,2023-02-20 13:32:56.170284
+YAMAHA,YZ-250X,https://www.yamahamotos.cl/producto/yz-250x/,7.999.000,0.0,0,7.999.000,2023-02-20 13:32:58.363992
+YAMAHA,YZ-450F,https://www.yamahamotos.cl/producto/new-yz-450f/,7.690.000,0.0,0,8.090.000,2023-02-20 13:33:00.822159
+YAMAHA,YZ-450FX,https://www.yamahamotos.cl/producto/new-yz-450fx-2023/,9.490.000,0.0,0,9.490.000,2023-02-20 13:33:03.368909
+YAMAHA,YZ-65,https://www.yamahamotos.cl/producto/yz-65/,4.890.000,0.0,0,4.890.000,2023-02-20 13:33:05.607328
+YAMAHA,YZ-85LW,https://www.yamahamotos.cl/producto/yz-85lw-2/,6.100.000,0.0,0,6.100.000,2023-02-20 13:33:07.545611
+YAMAHA,YZF-R1,https://www.yamahamotos.cl/producto/r1/,21.390.000,0.0,0,21.390.000,2023-02-20 13:33:09.997978
+YAMAHA,YZF-R15,https://www.yamahamotos.cl/producto/new-r15-v4/,3.990.000,400.0,0,4.390.000,2023-02-20 13:33:12.370571
+YAMAHA,YZF-R3A,https://www.yamahamotos.cl/producto/r3-a/,5.890.000,400.0,0,6.290.000,2023-02-20 13:33:14.822379
+YAMAHA,YZF-R7,https://www.yamahamotos.cl/producto/r7/,10.990.000,500.0,11.490.000,11.990.000,2023-02-20 13:33:17.005728
+YAMAHA,WR-450F,https://www.yamahamotos.cl/producto/wr-450f/,9.669.000,0.0,0,9.669.000,2023-02-20 13:33:19.220075
+YAMAHA,YZ-250,https://www.yamahamotos.cl/producto/yz-250/,7.800.000,0.0,0,0,2023-02-20 13:33:21.586708
+YAMAHA,TENERE 700 TOURING,https://www.yamahamotos.cl/producto/tenere-700-touring/,14.740.000,0.0,0,0,2023-02-20 13:33:23.825194
+YAMAHA,TRACER 9 GT,https://www.yamahamotos.cl/producto/tracer-900-gt/,14.990.000,0.0,0,14.990.000,2023-02-20 13:33:25.985178
+YAMAHA,XSR-700,https://www.yamahamotos.cl/producto/xsr-700/,9.890.000,0.0,0,9.890.000,2023-02-20 13:33:28.370226
+YAMAHA,FZ-250,https://www.yamahamotos.cl/producto/new-fz-25/,3.090.000,0,0,3.190.000,2023-02-20 13:34:25.792184
+YAMAHA,FZ-S,https://www.yamahamotos.cl/producto/fz-s/,2.390.000,0,0,2.790.000,2023-02-20 13:34:27.936856
+YAMAHA,FZN-150,https://www.yamahamotos.cl/producto/fzn150/,0,0,0,0,2023-02-20 13:34:29.885333
+YAMAHA,KODIAK 450,https://www.yamahamotos.cl/producto/kodiak-450/,10.190.000,0,0,10.190.000,2023-02-20 13:34:32.233040
+YAMAHA,MT-03A,https://www.yamahamotos.cl/producto/yamaha-mt-03/#motos,5.690.000,400.000,0,6.090.000,2023-02-20 13:34:34.594889
+YAMAHA,MT-07A,https://www.yamahamotos.cl/producto/yamaha-mt-07/,8.990.000,0,0,8.990.000,2023-02-20 13:34:36.867474
+YAMAHA,MT-09A,https://www.yamahamotos.cl/producto/mt09/,12.340.000,0,0,12.340.000,2023-02-20 13:34:38.978344
+YAMAHA,MT-10,https://www.yamahamotos.cl/producto/mt-10-2/,15.790.000,0,0,15.790.000,2023-02-20 13:34:41.271449
+YAMAHA,NMAX,https://www.yamahamotos.cl/producto/nmax-connected/,3.590.000,300.000,0,3.890.000,2023-02-20 13:34:43.894213
+YAMAHA,PW-50,https://www.yamahamotos.cl/producto/pw-50/,2.299.000,0,0,2.299.000,2023-02-20 13:34:46.152556
+YAMAHA,RAY-ZR,https://www.yamahamotos.cl/producto/cygnusrayzr/,1.899.000,0,0,1.999.000,2023-02-20 13:34:48.149708
+YAMAHA,TENERE 700,https://www.yamahamotos.cl/producto/tenere-700/,13.490.000,0,0,13.490.000,2023-02-20 13:34:50.365950
+YAMAHA,TT-R110E,https://www.yamahamotos.cl/producto/ttr-110e/,2.690.000,0,0,2.690.000,2023-02-20 13:34:52.700478
+YAMAHA,WR-250F,https://www.yamahamotos.cl/producto/wr-250f/,9.359.000,0,0,9.359.000,2023-02-20 13:34:54.797766
+YAMAHA,X-MAX 300,https://www.yamahamotos.cl/producto/scooter-yamaha-xmax-300/,5.590.000,400.000,5.990.000,6.690.000,2023-02-20 13:34:57.210187
+YAMAHA,XT-1200 ZE,https://www.yamahamotos.cl/producto/xt-1200-ze/,15.990.000,0,0,15.990.000,2023-02-20 13:34:59.255659
+YAMAHA,XTZ-125E,https://www.yamahamotos.cl/producto/xtz-125/,1.999.000,0,1.999.000,2.149.000,2023-02-20 13:35:01.526156
+YAMAHA,XTZ-150,https://www.yamahamotos.cl/producto/xtz150/,0,0,0,0,2023-02-20 13:35:03.767298
+YAMAHA,XVS-950 BOLT,https://www.yamahamotos.cl/producto/bolt/,11.590.000,0,0,11.590.000,2023-02-20 13:35:05.849084
+YAMAHA,YBR-125Z,https://www.yamahamotos.cl/producto/ybr-125/,1.499.000,0,0,0,2023-02-20 13:35:08.070802
+YAMAHA,YFM - 350A,https://www.yamahamotos.cl/producto/yfm-350a/,7.690.000,0,0,7.690.000,2023-02-20 13:35:10.312063
+YAMAHA,YFM-700 FWAD,https://www.yamahamotos.cl/producto/new-grizzly-eps-se/,12.590.000,0,0,12.590.000,2023-02-20 13:35:12.473406
+YAMAHA,YFM-90R,https://www.yamahamotos.cl/producto/yfm-90r-2/,2.999.000,0,2.999.000,3.149.000,2023-02-20 13:35:14.458598
+YAMAHA,YZ-125,https://www.yamahamotos.cl/producto/yz-125/,7.400.000,0,0,0,2023-02-20 13:35:16.678914
+YAMAHA,YZ-125X,https://www.yamahamotos.cl/producto/yz-125x-2t/,7.559.000,0,0,7.559.000,2023-02-20 13:35:18.954778
+YAMAHA,YZ-250F,https://www.yamahamotos.cl/producto/new-yz-250f/#motos,8.999.000,0,0,8.999.000,2023-02-20 13:35:21.185693
+YAMAHA,YZ-250FX,https://www.yamahamotos.cl/producto/new-yz-250fx-2023/,9.290.000,0,0,9.290.000,2023-02-20 13:35:23.248177
+YAMAHA,YZ-250X,https://www.yamahamotos.cl/producto/yz-250x/,7.999.000,0,0,7.999.000,2023-02-20 13:35:25.684646
+YAMAHA,YZ-450F,https://www.yamahamotos.cl/producto/new-yz-450f/,7.690.000,0,0,8.090.000,2023-02-20 13:35:27.705567
+YAMAHA,YZ-450FX,https://www.yamahamotos.cl/producto/new-yz-450fx-2023/,9.490.000,0,0,9.490.000,2023-02-20 13:35:29.909718
+YAMAHA,YZ-65,https://www.yamahamotos.cl/producto/yz-65/,4.890.000,0,0,4.890.000,2023-02-20 13:35:31.939334
+YAMAHA,YZ-85LW,https://www.yamahamotos.cl/producto/yz-85lw-2/,6.100.000,0,0,6.100.000,2023-02-20 13:35:34.593229
+YAMAHA,YZF-R1,https://www.yamahamotos.cl/producto/r1/,21.390.000,0,0,21.390.000,2023-02-20 13:35:37.370934
+YAMAHA,YZF-R15,https://www.yamahamotos.cl/producto/new-r15-v4/,3.990.000,400.000,0,4.390.000,2023-02-20 13:35:39.975445
+YAMAHA,YZF-R3A,https://www.yamahamotos.cl/producto/r3-a/,5.890.000,400.000,0,6.290.000,2023-02-20 13:35:42.285650
+YAMAHA,YZF-R7,https://www.yamahamotos.cl/producto/r7/,10.990.000,500.000,11.490.000,11.990.000,2023-02-20 13:35:44.575333
+YAMAHA,WR-450F,https://www.yamahamotos.cl/producto/wr-450f/,9.669.000,0,0,9.669.000,2023-02-20 13:35:46.897881
+YAMAHA,YZ-250,https://www.yamahamotos.cl/producto/yz-250/,7.800.000,0,0,0,2023-02-20 13:35:49.236395
+YAMAHA,TENERE 700 TOURING,https://www.yamahamotos.cl/producto/tenere-700-touring/,14.740.000,0,0,0,2023-02-20 13:35:51.486281
+YAMAHA,TRACER 9 GT,https://www.yamahamotos.cl/producto/tracer-900-gt/,14.990.000,0,0,14.990.000,2023-02-20 13:35:53.896520
+YAMAHA,XSR-700,https://www.yamahamotos.cl/producto/xsr-700/,9.890.000,0,0,9.890.000,2023-02-20 13:35:56.442571
