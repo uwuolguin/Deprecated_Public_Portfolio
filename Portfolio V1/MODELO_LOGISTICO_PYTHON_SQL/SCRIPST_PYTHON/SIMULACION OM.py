@@ -1,7 +1,7 @@
 import random
 import psycopg2
 import math
-
+##gggg
 
 #####CONNECTION TO DATABASE###################
 conn = psycopg2.connect("dbname=pro_log user=postgres password=Cl0Udpopi")
