@@ -1,7 +1,6 @@
 import random
 import psycopg2
 import math
-##ggggiiiii
 
 #####CONNECTION TO DATABASE###################
 conn = psycopg2.connect("dbname=pro_log user=postgres password=Cl0Udpopi")
@@ -18,10 +17,10 @@ crossdock_records = cursor.fetchall()
 
 ################SUPUESTOS###############################
 
-######Supuesto carga camion Homogenia
+######Supuesto carga camion Homogenia/assumptions
 
 Carga_Camion=30
-Numero_de_simulaciones=100000
+Numero_de_simulaciones=10000
 Costo_Total_ganador=math.inf
 Contador=0
 Temperatura=1000000000
